@@ -1,0 +1,11 @@
+TRLN
+
+1) trln_1_train.py: 
+TRLN model. This model is used to extract features from text data.
+
+2) trln_2_CNN.py: 
+CNN classifier model. This CNN is used to verify the extracted features.
+
+3) 3_LDA.py: 
+LDA classifier model. This LDA is used to verify the extracted features.
+
